@@ -32,4 +32,4 @@ In C# (Callee)
   	}
 ```
 
-
+Use your own keystore to play the app on a phone.
