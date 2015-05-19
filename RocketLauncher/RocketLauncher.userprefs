@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shader/Shader01.shader">
     <Files>
       <File FileName="Assets/Scripts/AndroidManager.cs" Line="44" Column="45" />
       <File FileName="Assets/Scripts/Test.cs" Line="1" Column="1" />
-      <File FileName="Assets/Shader/Shader01.shader" Line="53" Column="61" />
+      <File FileName="Assets/Shader/Shader01.shader" Line="8" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
